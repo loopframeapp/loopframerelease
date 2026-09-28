@@ -14,6 +14,15 @@ First public early-access build.
 - Dual export (16:9 + 9:16) from one trim.
 - Export queue, export library, Share / Reveal in Finder.
 
+### Changed (build 4, 2026-09-28)
+
+- yt-dlp updates and the YouTube HD helper are now verified by SHA-256 before use.
+- Browser cookies (YouTube fallback) and export notifications are now opt-in under Settings → Privacy & network.
+- Added a privacy summary and third-party licenses to Settings → About.
+- The HD helper server now stops when you quit Loopframe.
+- “Check for updates” now opens this releases page.
+- Fixed the bundled yt-dlp failing to start on signed builds.
+
 ### Fixed
 
 - YouTube HD helper (PO-token server) failing to start with “Could not start the YouTube HD helper on port 4416” — bundled Deno is now signed with JIT entitlements and updated to 2.9.7; Homebrew Deno is preferred when installed.

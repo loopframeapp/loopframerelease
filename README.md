@@ -36,3 +36,7 @@ What's new in each version:
 Requires macOS 14 (Sonoma) or later.
 
 Questions and support: see [the website](https://loopframeapp.thegaragelabs.cc) or email [support@loopframe.app](mailto:support@loopframe.app).
+
+## Third-party software and source offer
+
+Loopframe bundles FFmpeg (GPL), yt-dlp (Unlicense), Deno (MIT) and the bgutil PO-token provider (GPL v3). The full list, versions and source links are in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and in the app under Settings → About → Third-party licenses. For the corresponding GPL source of the bundled versions, follow those links or open an issue in this repo.
