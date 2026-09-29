@@ -1,7 +1,7 @@
 # Third-party software in Loopframe
 
-Loopframe bundles or downloads the following programs. They run as separate
-processes; Loopframe does not link against them.
+Loopframe bundles or downloads the following programs. Except for Sparkle, which is
+linked into the app, they run as separate processes.
 
 | Component | Version | License | Source |
 |-----------|---------|---------|--------|
@@ -9,6 +9,7 @@ processes; Loopframe does not link against them.
 | yt-dlp | latest at build time; updatable in Settings | The Unlicense | https://github.com/yt-dlp/yt-dlp |
 | Deno | 2.9.7 | MIT | https://github.com/denoland/deno |
 | bgutil-ytdlp-pot-provider (plugin and server) | 2.0.0 | GNU GPL v3 | https://github.com/Brainicism/bgutil-ytdlp-pot-provider |
+| Sparkle (in-app updater framework) | 2.10.0 | MIT (with bundled third-party notices) | https://github.com/sparkle-project/Sparkle |
 
 ## Source code offer (GPL)
 
@@ -24,4 +25,5 @@ The full license texts are available at:
 - GPL v2: https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
 - GPL v3: https://www.gnu.org/licenses/gpl-3.0.txt
 - MIT (Deno): https://github.com/denoland/deno/blob/main/LICENSE.md
+- MIT (Sparkle): https://github.com/sparkle-project/Sparkle/blob/2.x/LICENSE
 - Unlicense (yt-dlp): https://unlicense.org
