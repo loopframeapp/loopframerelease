@@ -14,6 +14,10 @@ First public early-access build.
 - Dual export (16:9 + 9:16) from one trim.
 - Export queue, export library, Share / Reveal in Finder.
 
+### Added (build 5, 2026-09-28)
+
+- In-app updates: Loopframe now checks for new builds automatically and installs them with one click (Settings → About). Builds 3 and 4 have no updater, so install this build manually once.
+
 ### Changed (build 4, 2026-09-28)
 
 - yt-dlp updates and the YouTube HD helper are now verified by SHA-256 before use.
