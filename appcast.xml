@@ -1,24 +1,27 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Loopframe</title>
         <item>
             <title>0.0.1</title>
-            <pubDate>Mon, 28 Sep 2026 17:22:24 -0700</pubDate>
+            <pubDate>Mon, 28 Sep 2026 17:55:19 -0700</pubDate>
             <link>https://loopframeapp.thegaragelabs.cc</link>
             <sparkle:fullReleaseNotesLink>https://github.com/loopframeapp/loopframerelease/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>5</sparkle:version>
+            <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Build 5 adds in-app updates. From now on Loopframe checks for new builds automatically (Settings → About → Automatically check for updates) and can install them with one click. This build also includes the privacy and integrity improvements from build 4 and fixes the bundled yt-dlp on signed builds.
+            <description sparkle:format="markdown"><![CDATA[Build 6 clarifies what the app sends over the network. Settings → Privacy & network now describes update checks accurately and links the Privacy Policy and new Terms of Use, and the third-party licenses now include Sparkle.
 
-Because earlier builds have no updater, install this one manually from the download page; after that, updates arrive in the app.
+Installed builds update to this one automatically (Settings → About → Automatically check for updates).
 ]]></description>
-            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Loopframe.dmg" length="227090043" type="application/octet-stream" sparkle:edSignature="PEq8JTgJpG1uTdwbBv+RHhg4WkQNR+4HjoztKTjiWwvoYE6n2Fs4l3OHyApOu364fsNEp8cTr0ZtoOl5Q/0pBg=="></enclosure>
+            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Loopframe.dmg" length="227090625" type="application/octet-stream" sparkle:edSignature="IaG2SnXyIXTIF636MmvVvw9paFoJFf3qxSE29qlF3kxLeiTOrroqZR2VER/Rpf0FiltCElUqNxDaMApm0kPfAA=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: bnb+ycd+SLWPLjabYbax41A2MGIv9hNsuC0qN5dGf08qvH31SwQWa3mZq70srLCzyo2MYFFIfD5JI3n/4oHDBQ==
-length: 1772
+</rss>
+<!-- sparkle-signatures:
+edSignature: +6bSbVDA7Bc0WlEi0Wb7hL9G0uuUWdhj2Yn/z3hp5HEDtH7rxvIH40hTcYQBSPb3AoTyWOyxqYyaw7aINDgeAQ==
+length: 1664
 -->
