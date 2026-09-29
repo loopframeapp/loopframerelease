@@ -7,21 +7,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Loopframe</title>
         <item>
             <title>0.0.1</title>
-            <pubDate>Mon, 28 Sep 2026 17:55:19 -0700</pubDate>
+            <pubDate>Tue, 29 Sep 2026 10:24:29 -0700</pubDate>
             <link>https://loopframeapp.thegaragelabs.cc</link>
             <sparkle:fullReleaseNotesLink>https://github.com/loopframeapp/loopframerelease/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>6</sparkle:version>
+            <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Build 6 clarifies what the app sends over the network. Settings → Privacy & network now describes update checks accurately and links the Privacy Policy and new Terms of Use, and the third-party licenses now include Sparkle.
+            <description sparkle:format="markdown"><![CDATA[Build 7 makes exports and imports more reliable and polishes the app.
+
+- Exports can now be cancelled, and quitting mid-job stops them cleanly.
+- Exports never overwrite earlier files; repeated exports get numbered names.
+- Undo works from the first edit and covers more actions.
+- Light mode is readable in the editor preview and timeline.
+- New branded installer, tabbed Settings, Open Recent, and many accessibility and layout fixes (including the Exports screen).
 
 Installed builds update to this one automatically (Settings → About → Automatically check for updates).
 ]]></description>
-            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Loopframe.dmg" length="227090625" type="application/octet-stream" sparkle:edSignature="IaG2SnXyIXTIF636MmvVvw9paFoJFf3qxSE29qlF3kxLeiTOrroqZR2VER/Rpf0FiltCElUqNxDaMApm0kPfAA=="/>
+            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Loopframe.dmg" length="212421738" type="application/octet-stream" sparkle:edSignature="CGRRwtcH2WSLi7LRu3v3L9/NP85KRZ3FNrT6xSdnQWva7dS1A2DW/oLZMB97d+iS8YDW2S5oFSBVgMzkZDeDCg=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: +6bSbVDA7Bc0WlEi0Wb7hL9G0uuUWdhj2Yn/z3hp5HEDtH7rxvIH40hTcYQBSPb3AoTyWOyxqYyaw7aINDgeAQ==
-length: 1664
+edSignature: RmyHFyFkfNM+fuOV/axew7a+ds1IxOVDxcm+SDmoBRDuOAZ+krL1SpNRb9VG5lE8ASRIjxnRtxRYFvlNipcvCg==
+length: 1906
 -->
