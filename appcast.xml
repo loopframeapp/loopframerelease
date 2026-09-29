@@ -7,13 +7,13 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Loopframe</title>
         <item>
             <title>0.0.1</title>
-            <pubDate>Tue, 29 Sep 2026 10:24:29 -0700</pubDate>
+            <pubDate>Tue, 29 Sep 2026 11:52:56 -0700</pubDate>
             <link>https://loopframeapp.thegaragelabs.cc</link>
             <sparkle:fullReleaseNotesLink>https://github.com/loopframeapp/loopframerelease/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>7</sparkle:version>
+            <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Build 7 makes exports and imports more reliable and polishes the app.
+            <description sparkle:format="markdown"><![CDATA[Build 8 makes exports and imports more reliable and polishes the app.
 
 - Exports can now be cancelled, and quitting mid-job stops them cleanly.
 - Exports never overwrite earlier files; repeated exports get numbered names.
@@ -23,11 +23,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 
 Installed builds update to this one automatically (Settings → About → Automatically check for updates).
 ]]></description>
-            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Loopframe.dmg" length="212421738" type="application/octet-stream" sparkle:edSignature="CGRRwtcH2WSLi7LRu3v3L9/NP85KRZ3FNrT6xSdnQWva7dS1A2DW/oLZMB97d+iS8YDW2S5oFSBVgMzkZDeDCg=="/>
+            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Loopframe.dmg" length="212423058" type="application/octet-stream" sparkle:edSignature="NZHJjVYdUDYN3RPELhb02xKl6mnACuT/nxpdTMbgPTDK9NKCLSaPtoOmFHEoliDyF9BmX5hA+zrIa4i+lnrMBQ=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: RmyHFyFkfNM+fuOV/axew7a+ds1IxOVDxcm+SDmoBRDuOAZ+krL1SpNRb9VG5lE8ASRIjxnRtxRYFvlNipcvCg==
+edSignature: PoeaGuTYDHvGhbwEi+tsOXVYH8HdUZHH2FMkt4CFrMxIIsAvGhukp9aGfHD2Y0pYegUpKDJL4SyDI3KOrz3/DA==
 length: 1906
 -->
