@@ -14,6 +14,11 @@ First public early-access build.
 - Dual export (16:9 + 9:16) from one trim.
 - Export queue, export library, Share / Reveal in Finder.
 
+### Changed (build 6, 2026-09-29)
+
+- Settings → Privacy & network now describes update checks accurately and links the Privacy Policy and Terms of Use.
+- Sparkle is listed in the third-party licenses.
+
 ### Added (build 5, 2026-09-28)
 
 - In-app updates: Loopframe now checks for new builds automatically and installs them with one click (Settings → About). Builds 3 and 4 have no updater, so install this build manually once.
