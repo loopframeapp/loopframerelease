@@ -7,27 +7,28 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Loopframe</title>
         <item>
             <title>0.0.1</title>
-            <pubDate>Tue, 29 Sep 2026 11:52:56 -0700</pubDate>
+            <pubDate>Fri, 02 Oct 2026 11:01:43 -0700</pubDate>
             <link>https://loopframeapp.thegaragelabs.cc</link>
             <sparkle:fullReleaseNotesLink>https://github.com/loopframeapp/loopframerelease/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>8</sparkle:version>
+            <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Build 8 makes exports and imports more reliable and polishes the app.
+            <description sparkle:format="markdown"><![CDATA[Build 16 is a big editing update.
 
-- Exports can now be cancelled, and quitting mid-job stops them cleanly.
-- Exports never overwrite earlier files; repeated exports get numbered names.
-- Undo works from the first edit and covers more actions.
-- Light mode is readable in the editor preview and timeline.
-- New branded installer, tabbed Settings, Open Recent, and many accessibility and layout fixes (including the Exports screen).
+- Join several ranges of a video into one loop, with smooth crossfades between them.
+- New Look tab: sharpen, reduce noise, and adjust contrast, saturation and brightness, with a before/after preview.
+- A cleaner editor: the whole video as one strip, a lane that keeps nearby ranges easy to pick, zoom, and one obvious Export button.
+- Preview the whole result before exporting (⇧⌘P).
+- Exports and progress now live together on the Exports page, and starting an export takes you straight to its progress.
+- A smoother playhead, a tidier Inspector, and many fixes.
 
 Installed builds update to this one automatically (Settings → About → Automatically check for updates).
 ]]></description>
-            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Loopframe.dmg" length="212423058" type="application/octet-stream" sparkle:edSignature="NZHJjVYdUDYN3RPELhb02xKl6mnACuT/nxpdTMbgPTDK9NKCLSaPtoOmFHEoliDyF9BmX5hA+zrIa4i+lnrMBQ=="/>
+            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Loopframe.dmg" length="212620726" type="application/octet-stream" sparkle:edSignature="UFsy6+LMl66TOdlASBmRfErWaPOIno465mIT3t6UruFrl/CSC7KaxDemf2DFyPSwgSPk3KtPWO3hQ4iL/LMeCw=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: PoeaGuTYDHvGhbwEi+tsOXVYH8HdUZHH2FMkt4CFrMxIIsAvGhukp9aGfHD2Y0pYegUpKDJL4SyDI3KOrz3/DA==
-length: 1906
+edSignature: SNgZ8wFAJQuTekLJEsJqc9hTYQwRkTvjrWZEb7qgu/vJSaXtbCULg1hSX8159WfWwSdAwb6aiPuxtf7Oyf8YAw==
+length: 2043
 -->
