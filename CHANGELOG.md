@@ -14,6 +14,10 @@ First public early-access build.
 - Dual export (16:9 + 9:16) from one trim.
 - Export queue, export library, Share / Reveal in Finder.
 
+### Fixed (build 19, 2026-10-07)
+
+- Moving from Loopframe: projects, exports, and thumbnails now keep working after Furiko moves them out of the Loopframe folder. Build 18 left their saved paths pointing at the old folder.
+
 ### Changed (build 18, 2026-10-07)
 
 - Loopframe is now Furiko, part of the Pennowick family of Mac apps. New name and brass accent; the app still does the same job.
