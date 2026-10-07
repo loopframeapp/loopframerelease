@@ -7,27 +7,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Loopframe</title>
         <item>
             <title>0.0.1</title>
-            <pubDate>Fri, 02 Oct 2026 13:09:00 -0700</pubDate>
-            <link>https://loopframeapp.thegaragelabs.cc</link>
+            <pubDate>Wed, 07 Oct 2026 14:17:38 -0700</pubDate>
+            <link>https://pennowick.com/furiko/</link>
             <sparkle:fullReleaseNotesLink>https://github.com/loopframeapp/loopframerelease/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>17</sparkle:version>
+            <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Build 17 makes working with several ranges simpler.
+            <description sparkle:format="markdown"><![CDATA[Loopframe is now Furiko (振り子, "pendulum"), part of the Pennowick family of Mac apps.
 
-- Ranges are numbered by where they sit in the video. Add one between 1 and 2 and it becomes 2; the rest move up.
-- Ranges can no longer overlap. Dragging or trimming a range stops at its neighbour, and older projects with overlapping ranges are trimmed apart when you open them.
-- Add a range by moving the playhead and pressing + Range (⌘⇧R). Dragging on the strip now only moves the playhead, and the yellow edges only make a range longer or shorter.
-- A trash button deletes the selected range. Press ⌘Z to bring it back.
-- One video per project: adding another video and manual reordering are gone.
-
-Installed builds update to this one automatically (Settings → About → Automatically check for updates).
+- New name, new brass accent color. The app still trims, crops, stitches, and exports; it does not set your wallpaper.
+- Installing Furiko is a one-time manual download. It has a new app ID, so Loopframe cannot update itself into it.
+- On first launch, Furiko moves your projects, downloads, and exports from the Loopframe folder in Application Support and copies your settings.
+- Website, Privacy Policy, and Terms links now point to pennowick.com.
 ]]></description>
-            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Loopframe.dmg" length="212616369" type="application/octet-stream" sparkle:edSignature="4cxQoDgPU3OKhBiTCfTTyxp83wJnicDK3Lpr0vAgrhwLbM+/ChZLMFK3RP4NzJmCQsGvy7b0oRblmFGKWJ61Cw=="/>
+            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Furiko.dmg" length="212612413" type="application/octet-stream" sparkle:edSignature="qYxVfr+SyLHUI16+7OmI9CkpA11/kKeCp1KTyrfd+VqaI5SJ0FOl6sFRE5t8FU+SH1hkACme5VlCJ/Cn1WbeDg=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: RWARKLGlDx2zS9NZU3m+dgKRHsyS1g3H+E5AMY2OhbpOGXi1Q5GMBK7jGvKSByd/l18OH6mBB62EtYbcQtGUCg==
-length: 2102
+edSignature: /mKsehv1rwrqUB8U4+0ke3bol63Th5kvV7XmrB16pHxE8vRSs6SO38MOwksq8iHoU4EvMxTNHifFOBIXWWjpBQ==
+length: 1861
 -->
