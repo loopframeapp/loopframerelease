@@ -7,24 +7,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Loopframe</title>
         <item>
             <title>0.0.1</title>
-            <pubDate>Wed, 07 Oct 2026 14:17:38 -0700</pubDate>
+            <pubDate>Wed, 07 Oct 2026 14:39:10 -0700</pubDate>
             <link>https://pennowick.com/furiko/</link>
             <sparkle:fullReleaseNotesLink>https://github.com/loopframeapp/loopframerelease/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>18</sparkle:version>
+            <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Loopframe is now Furiko (振り子, "pendulum"), part of the Pennowick family of Mac apps.
-
-- New name, new brass accent color. The app still trims, crops, stitches, and exports; it does not set your wallpaper.
-- Installing Furiko is a one-time manual download. It has a new app ID, so Loopframe cannot update itself into it.
-- On first launch, Furiko moves your projects, downloads, and exports from the Loopframe folder in Application Support and copies your settings.
-- Website, Privacy Policy, and Terms links now point to pennowick.com.
+            <description sparkle:format="markdown"><![CDATA[- Fixed moving from Loopframe: projects, exports, and thumbnails now keep working after Furiko moves them out of the Loopframe folder.
+- Everything else matches build 18: Loopframe is now Furiko, with a new app ID, so Loopframe cannot update itself into it.
 ]]></description>
-            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Furiko.dmg" length="212612413" type="application/octet-stream" sparkle:edSignature="qYxVfr+SyLHUI16+7OmI9CkpA11/kKeCp1KTyrfd+VqaI5SJ0FOl6sFRE5t8FU+SH1hkACme5VlCJ/Cn1WbeDg=="/>
+            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Furiko.dmg" length="212613224" type="application/octet-stream" sparkle:edSignature="uHL+Pe34OpsLqNSoGDkZKHV+1vWU+2AByiKPw9XZ5m4m8chH+BCzYnPwDt92OITikb/41QChJgfSmI0rpAOeDg=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: /mKsehv1rwrqUB8U4+0ke3bol63Th5kvV7XmrB16pHxE8vRSs6SO38MOwksq8iHoU4EvMxTNHifFOBIXWWjpBQ==
-length: 1861
+edSignature: SPAmGBSeIG/wWPUAmoM/7hbWoL7CNh0Ps4Pc2hLHmGwcoCFEglEfAgdnbYfrYqgdDoajCBLHNu7xt2wCJMxdDw==
+length: 1577
 -->
