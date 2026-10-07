@@ -1,6 +1,6 @@
 # Changelog
 
-Release notes for every published Loopframe build. Each entry matches a [GitHub Release](https://github.com/loopframeapp/loopframerelease/releases).
+Release notes for every published Furiko build (called Loopframe until build 18; older entries below keep the old name). Each entry matches a [GitHub Release](https://github.com/loopframeapp/loopframerelease/releases).
 
 ## [0.0.1](https://github.com/loopframeapp/loopframerelease/releases/tag/v0.0.1) — 2026-09-21
 
@@ -13,6 +13,13 @@ First public early-access build.
 - Speed control; audio kept for Instagram exports, stripped for wallpaper engines.
 - Dual export (16:9 + 9:16) from one trim.
 - Export queue, export library, Share / Reveal in Finder.
+
+### Changed (build 18, 2026-10-07)
+
+- Loopframe is now Furiko, part of the Pennowick family of Mac apps. New name and brass accent; the app still does the same job.
+- New app ID: Loopframe cannot update itself into Furiko, so download it once by hand ([Furiko.dmg](https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Furiko.dmg)).
+- On first launch, Furiko moves your projects, downloads, and exports from the Loopframe folder in Application Support and copies your settings.
+- Website, Privacy Policy, and Terms links now point to pennowick.com.
 
 ### Changed (build 6, 2026-09-29)
 
@@ -43,4 +50,4 @@ First public early-access build.
 
 ### Download
 
-[Loopframe.dmg](https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Loopframe.dmg)
+[Furiko.dmg](https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Furiko.dmg) (build 18 and later) · [Loopframe.dmg](https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Loopframe.dmg)

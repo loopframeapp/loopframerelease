@@ -1,6 +1,6 @@
-# Third-party software in Loopframe
+# Third-party software in Furiko
 
-Loopframe bundles or downloads the following programs. Except for Sparkle, which is
+Furiko bundles or downloads the following programs. Except for Sparkle, which is
 linked into the app, they run as separate processes.
 
 | Component | Version | License | Source |
@@ -16,7 +16,7 @@ linked into the app, they run as separate processes.
 FFmpeg and the bgutil provider are distributed under the GNU General Public
 License. The complete corresponding source for the exact versions above is
 available at the URLs listed. For three years from the date you received
-Loopframe you can also request a copy of that source by opening an issue at
+Furiko you can also request a copy of that source by opening an issue at
 https://github.com/loopframeapp/loopframerelease/issues.
 
 FFmpeg is a trademark of Fabrice Bellard, originator of the FFmpeg project.
