@@ -7,20 +7,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Loopframe</title>
         <item>
             <title>0.0.1</title>
-            <pubDate>Wed, 07 Oct 2026 17:32:56 -0700</pubDate>
+            <pubDate>Wed, 07 Oct 2026 18:27:04 -0700</pubDate>
             <link>https://pennowick.com/furiko/</link>
             <sparkle:fullReleaseNotesLink>https://github.com/loopframeapp/loopframerelease/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>20</sparkle:version>
+            <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- New Furiko logo: a brass pendulum on deep blue, for the app icon, the in-app mark, and the installer window.
-- No other changes since build 19.
+            <description sparkle:format="markdown"><![CDATA[- New look: the Murecho typeface across the app, a lighter Welcome screen, and a small pendulum in place of the spinner while Furiko is working.
+- New brass accent and flatter panels.
+- No changes to importing, trimming, cropping, or exporting.
 ]]></description>
-            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Furiko.dmg" length="211958396" type="application/octet-stream" sparkle:edSignature="HJGKs1NA6pDdryU4Yrx+1RhzjuuSZ0lFNEO6VGvIzZRj2SXb5OzibdNn3gApxbTHBjklbA7IxW1eLeZE79xOAQ=="/>
+            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Furiko.dmg" length="212076984" type="application/octet-stream" sparkle:edSignature="+9SOewYDAb2B4RBLVD7TaIL0A3lcjT0J0Le8T0U1PhgNS3htX847kH6VRlizadjDhu2Fh73+OX6zEc/T5CfZAg=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: bpyABEOjuSXqfXX3BqlJyMwDWYMwM7cFnEImTGu/ZCVS10GjNyrVUePI0QQiYiJRdXIn79AiCww33KbNM4HKDw==
-length: 1465
+edSignature: HL9nbCpQ2ookCiUWzabZpQ3nmqDxbJ5pc9PrvwkDEhrx3bGmKMrq/nKHQwVo2Kafpkv0Us7aYhEVKDOu/paxDQ==
+length: 1564
 -->
