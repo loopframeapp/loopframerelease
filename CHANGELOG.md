@@ -14,6 +14,11 @@ First public early-access build.
 - Dual export (16:9 + 9:16) from one trim.
 - Export queue, export library, Share / Reveal in Finder.
 
+### Changed (build 21, 2026-10-07)
+
+- New look: the Murecho typeface across the app, a lighter Welcome screen, and a small pendulum in place of the spinner while Furiko is working.
+- New brass accent and flatter panels. Importing, trimming, cropping, and exporting are unchanged.
+
 ### Changed (build 20, 2026-10-07)
 
 - New Furiko logo: a brass pendulum on deep blue, for the app icon, the in-app mark, and the installer window.
