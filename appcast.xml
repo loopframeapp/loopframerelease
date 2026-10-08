@@ -7,20 +7,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Loopframe</title>
         <item>
             <title>0.0.1</title>
-            <pubDate>Wed, 07 Oct 2026 14:39:10 -0700</pubDate>
+            <pubDate>Wed, 07 Oct 2026 17:32:56 -0700</pubDate>
             <link>https://pennowick.com/furiko/</link>
             <sparkle:fullReleaseNotesLink>https://github.com/loopframeapp/loopframerelease/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
-            <sparkle:version>19</sparkle:version>
+            <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Fixed moving from Loopframe: projects, exports, and thumbnails now keep working after Furiko moves them out of the Loopframe folder.
-- Everything else matches build 18: Loopframe is now Furiko, with a new app ID, so Loopframe cannot update itself into it.
+            <description sparkle:format="markdown"><![CDATA[- New Furiko logo: a brass pendulum on deep blue, for the app icon, the in-app mark, and the installer window.
+- No other changes since build 19.
 ]]></description>
-            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Furiko.dmg" length="212613224" type="application/octet-stream" sparkle:edSignature="uHL+Pe34OpsLqNSoGDkZKHV+1vWU+2AByiKPw9XZ5m4m8chH+BCzYnPwDt92OITikb/41QChJgfSmI0rpAOeDg=="/>
+            <enclosure url="https://github.com/loopframeapp/loopframerelease/releases/download/v0.0.1/Furiko.dmg" length="211958396" type="application/octet-stream" sparkle:edSignature="HJGKs1NA6pDdryU4Yrx+1RhzjuuSZ0lFNEO6VGvIzZRj2SXb5OzibdNn3gApxbTHBjklbA7IxW1eLeZE79xOAQ=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: SPAmGBSeIG/wWPUAmoM/7hbWoL7CNh0Ps4Pc2hLHmGwcoCFEglEfAgdnbYfrYqgdDoajCBLHNu7xt2wCJMxdDw==
-length: 1577
+edSignature: bpyABEOjuSXqfXX3BqlJyMwDWYMwM7cFnEImTGu/ZCVS10GjNyrVUePI0QQiYiJRdXIn79AiCww33KbNM4HKDw==
+length: 1465
 -->
