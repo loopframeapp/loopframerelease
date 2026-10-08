@@ -14,6 +14,10 @@ First public early-access build.
 - Dual export (16:9 + 9:16) from one trim.
 - Export queue, export library, Share / Reveal in Finder.
 
+### Changed (build 20, 2026-10-07)
+
+- New Furiko logo: a brass pendulum on deep blue, for the app icon, the in-app mark, and the installer window.
+
 ### Fixed (build 19, 2026-10-07)
 
 - Moving from Loopframe: projects, exports, and thumbnails now keep working after Furiko moves them out of the Loopframe folder. Build 18 left their saved paths pointing at the old folder.
